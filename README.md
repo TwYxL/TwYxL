@@ -1,8 +1,4 @@
 ### Hey everyone! 🤖👾
 
-<p align= "center">
+![cat1](https://user-images.githubusercontent.com/95926496/227260670-552887f4-d9d7-4ac0-bf25-1bfde4818c5d.gif)
 
-![cat](https://user-images.githubusercontent.com/95926496/227259901-f8a4262c-84f6-496f-ac94-8811ab382287.gif)
-
-
-</p>
