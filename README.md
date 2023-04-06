@@ -1,5 +1,5 @@
 <h1 align="center"> Hey everyone! 🤖👾 </h1>
 
-
-
-align="center" ![cat](https://user-images.githubusercontent.com/95926496/230470537-412de7ae-fe80-407e-b225-373b215b1c11.gif)
+<p align="center">
+  <img src="![cat](https://user-images.githubusercontent.com/95926496/230471078-1e451825-f811-42d8-9303-2f19f9ccc539.gif)" alt="animated" />
+</p>
