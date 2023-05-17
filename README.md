@@ -1,7 +1,8 @@
 <h1 align="center"> Hey everyone! 🤖👾 </h1>
 <h3 align="center">🙌🐯I will try to post little things to help the community, mini projects that you can use in your projects.💻👌</h3>
 
-![cat](https://user-images.githubusercontent.com/95926496/230471687-4fdae5f5-a775-4042-a1d9-30ae1effa9ed.gif)
+<p align="center">
+<img align="center" alt="Coding" width="700" height="500" src="https://github.com/TwYxL/TwYxL/blob/main/PC.gif">
 
 <h3 align="left">😎Let's connect...</h3>
 <p align="left">
