@@ -4,7 +4,7 @@
 <img align="center" alt="PC" width="200" height="50" src="https://github.com/TwYxL/TwYxL/blob/main/Logo.png">
 
 <p align="center">
-<img align="center" alt="PC" width="600" height="400" src="https://github.com/TwYxL/TwYxL/blob/main/PC.gif">
+<img align="center" alt="PC" width="500" height="350" src="https://github.com/TwYxL/TwYxL/blob/main/PC.gif">
 
 <h3 align="left">😎Let's connect...</h3>
 <p align="left">
