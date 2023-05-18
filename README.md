@@ -1,10 +1,10 @@
 <h1 align="center"> Hey everyone! 🤖👾 </h1>
 <h3 align="center">🙌🐯I will try to post little things to help the community, mini projects that you can use in your projects.💻👌</h3>
 <p align="center">
-<img align="center" alt="PC" width="350" height="100" src="https://github.com/TwYxL/TwYxL/blob/main/Logo.png">
+<img align="center" alt="PC" width="200" height="50" src="https://github.com/TwYxL/TwYxL/blob/main/Logo.png">
 
 <p align="center">
-<img align="center" alt="PC" width="700" height="500" src="https://github.com/TwYxL/TwYxL/blob/main/PC.gif">
+<img align="center" alt="PC" width="600" height="400" src="https://github.com/TwYxL/TwYxL/blob/main/PC.gif">
 
 <h3 align="left">😎Let's connect...</h3>
 <p align="left">
